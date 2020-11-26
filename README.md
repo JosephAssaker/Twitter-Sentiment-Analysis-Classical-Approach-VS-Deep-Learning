@@ -6,7 +6,7 @@
 
 # Overview
 
-This project's aim, is to explore the world of *Natural Language Processing* (NPL) by building what is known as a **Sentiment Analysis Model**. A sentiment analysis model is a model that analyses a given piece of text and predicts whether this piece of text expresses positive or negative sentiment.
+This project's aim, is to explore the world of *Natural Language Processing* (NLP) by building what is known as a **Sentiment Analysis Model**. A sentiment analysis model is a model that analyses a given piece of text and predicts whether this piece of text expresses positive or negative sentiment.
 
 <center><img src="./images/sentiment_classification.png" style="width:800px;margin-bottom:15px"></center>
 
