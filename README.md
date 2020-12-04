@@ -53,7 +53,8 @@ Now, let's start with the fun 🎉
   5.5. Investigating Possibilties to Improve the Model  
 &nbsp;&nbsp;&nbsp;&nbsp;5.5.1. Regularization - Dropout  
 &nbsp;&nbsp;&nbsp;&nbsp;5.5.2. Inspecting the Data - Unknown Words  
-  5.6. Inspecting Wrongly Predicted Data  
+  5.6. Predicting on Custom Data  
+  5.7. Inspecting Wrongly Predicted Data  
  6. Bonus Section
  7. Extra Tip: Pickling !
  8. Further Work
@@ -61,4 +62,4 @@ Now, let's start with the fun 🎉
  
 Continue reading the whole notebook [here](https://github.com/JosephAssaker/Twitter-Sentiment-Analysis-Classical-Approach-VS-Deep-Learning/blob/master/Twitter%20Sentiment%20Analysis%20-%20Classical%20Approach%20VS%20Deep%20Learning.ipynb).
 
-You can also find this notebook on [Kaggle](https://www.kaggle.com/josephassaker/twitter-sentiment-analysis-classical-vs-lstm).
+You can also find this notebook, and give it an upvote 😊, on [Kaggle](https://www.kaggle.com/josephassaker/twitter-sentiment-analysis-classical-vs-lstm).
